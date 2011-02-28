@@ -1,10 +1,7 @@
 lsi: true
 auto: false
 permalink: /articles/:title.html
-# Change the dir the individual tag files are output to
-tag_dir: tag # Default is tags
-# Title to be used when generating the individual tag html files prefixed with tag name
+tag_dir: tag
 tag_title_prefix: "Tags &raquo; "
-# enable related_tags computing
 related_tags: true
 baseurl: http://coffeecomrade.com
