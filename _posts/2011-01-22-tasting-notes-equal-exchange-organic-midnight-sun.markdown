@@ -19,7 +19,7 @@ Midnight Sun is drinkable despite its fairly modest complexity. It lingers on th
  
 ![Equal Exchange - Organic Midnight Sun - Finished Cup][img3]
  
-<h2>Verdict</h2> 
+### Verdict
  
 Recommended _only_ if you _really_ like dark roasts. 2 Stars.
 

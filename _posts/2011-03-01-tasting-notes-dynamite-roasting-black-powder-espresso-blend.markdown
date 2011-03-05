@@ -4,11 +4,11 @@ date: 2011-03-01
 title: Tasting Notes - Dynamite Roasting - Black Powder Espresso Blend
 tags: [review, tasting-notes, espresso, dynamite, 4-stars]
 ---
-[Dynamite Roasting][1] is a local organic roaster in Black Mountain, NC. I've written before about their Sumatra Mandheling roast–one of my favorite coffees. I recently had the chance to visit their coffee bar and pick up their [Black Powder Espresso Blend][2].
+[Dynamite Roasting][1] is a local organic roaster in Black Mountain, NC. I've [written before about their Sumatra Mandheling][3] roast–one of my favorite coffees. I recently had the chance to visit their coffee bar and pick up their [Black Powder Espresso Blend][2].
 
 ![Dynamite Roasting - Black Powder Espresso Blend][img1]
 
-This dark roast has an intense coffee aroma with tones of cream and nut oil. As an espresso blend, the beans are roasted well into the second crack but don't suffer the common "roasted-to-hell" trait of many similar blends. There's no musky or meaty[^8323] burnt smell here.
+This dark roast has an intense coffee aroma with tones of cream and nut oil. As an espresso blend, the beans are roasted well into the second crack but don't suffer the common "roasted-to-hell" trait of many similar blends. There's no musky or meaty[^blackpowder1] burnt smell here.
 
 ![Dynamite Roasting - Black Powder Espresso Blend - Beans][img2]
 
@@ -24,8 +24,9 @@ Dynamite Roasting's Black Powder Espresso is–quite possibly–the best _espres
 
 [1]: http://www.dynamiteroasting.com/
 [2]: http://www.dynamiteroasting.com/onlinestore.html
+[3]: http://coffeecomrade.com/articles/tasting-notes-dynamite-roasting-sumatra-mandheling.html
 [img1]: http://coffeecomrade.com/photos/tasting_-dynamite_-black-powder/dynamite-black-powder-bag.jpg
 [img2]: http://coffeecomrade.com/photos/tasting_-dynamite_-black-powder/dynamite-black-powder-beans.jpg
 [img3]: http://coffeecomrade.com/photos/tasting_-dynamite_-black-powder/dynamite-black-powder-crema.jpg
 
-[^1]: Yes, over-roasted beans smell like meat. Baconesque, but in a bad way.
+[^blackpowder1]: Yes, over-roasted beans smell like meat. Baconesque, but in a bad way.

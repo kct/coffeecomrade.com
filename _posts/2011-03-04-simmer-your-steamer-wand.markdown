@@ -6,7 +6,7 @@ tags: [commentary, culture, shops]
 ---
 I'm disturbed by the aggressive elitism of some coffee shops. I can dig an attitude or edginess; it can often set your shop apart and dictate the type of clientele you draw. But when your ethos becomes a thinly-veiled ego stroke, it's time to chill down.
 
-Yesterday, I visited a shop that billed itself as an "espresso bar" rather than a coffee shop. Again, I can dig that. Ostensibly, it tells me that I can expect a higher level of service than a clerk filling my cup from an airpot[^8247]. A friend had warned me that the owner was "<em>really</em> into his coffee," but that only piqued my curiosity. I ordered my standard Americano (oddly, no option for a double).
+Yesterday, I visited a shop that billed itself as an "espresso bar" rather than a coffee shop. Again, I can dig that. Ostensibly, it tells me that I can expect a higher level of service than a clerk filling my cup from an airpot[^simmer1]. A friend had warned me that the owner was "<em>really</em> into his coffee," but that only piqued my curiosity. I ordered my standard Americano (oddly, no option for a double).
 
 I'll admit it was an expertly prepared Americano. I've lost count of the shops I've visited that flub up the order of preparation for a relatively straightforward drink. This shop had it down pat, using a vintage La Marzocca to pull a perfect shot. And it tasted pretty good to boot. But it wasn't the _best tasting_ I've had, despite the flawless preparation.
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="index-posts">
-	{% for post in site.posts limit:5 %}
+	{% for post in site.posts limit:10 %}
 	<!--Post {{ post.id }}-->
 	<div id="post-{{ post.id }}" class="post">
 		<h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
