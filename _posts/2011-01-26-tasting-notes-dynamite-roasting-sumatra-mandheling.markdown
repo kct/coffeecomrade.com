@@ -1,6 +1,6 @@
 ---
 layout: post
-date: Sat Mar  5 13:10:43 EST 2011
+date: 2011-01-26
 title: Tasting Notes - Dynamite Roasting - Sumatra Mandheling
 tags: [review, tasting-notes, dynamite, medium-roast, 5-stars]
 ---
@@ -12,7 +12,7 @@ The [Mandheling][2] beans are a medium roast that edge slightly toward dark. The
 
 ![Dynamite Roasting - Sumatra Mandheling - Grounds][img2]
 
-Nut flavor is pervasive, held up by subtle wood and oil textures. There's a light hint of dark fruit–maybe cherry or pomegranate. The brew feels very thin and almost weightless. While this may seem like a reflection of poor body, the finished cup has an excellent build that allows the light weight shine through.
+Nut flavor is pervasive, held up by subtle wood and oil textures. There's a light hint of dark fruit–maybe cherry or pomegranate. The brew feels very thin and almost weightless. While this may seem like a reflection of poor body, the finished cup has an excellent build that allows the light weight to shine through.
 
 I could drink this stuff all day. The aftertaste is just right; it doesn't overstay its welcome. Surprisingly, the cup smells precisely as delicious as the grounds. This almost never happens. It's an honest roast.
 
