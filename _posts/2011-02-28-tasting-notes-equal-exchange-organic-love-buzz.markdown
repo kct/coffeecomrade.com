@@ -2,7 +2,7 @@
 layout: post
 date: 2011-02-28
 title: Tasting Notes - Equal Exchange - Organic Love Buzz
-tags: [commentary, culture, shops]
+tags: [tasting-notes, review, equal-exchange, dark-roast, 4-stars]
 ---
 Why do roasters produce "Vanlentine's Day" blends? Not that I'm complaining; the more roasts the better. I suppose the idea of blending beans is supposed to evoke images of the blending of souls. Whatever works.
 
